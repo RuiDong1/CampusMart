@@ -16,7 +16,7 @@ Users sign in with a `.edu` email address. Service providers create listings wit
 | Jean Park   | [JunJunHue](https://github.com/JunJunHue)           |
 | James Huang | [JamesHuang2004](https://github.com/JamesHuang2004) |
 | Colin Sung  | [js10839](https://github.com/js10839)               |
-| Jack Jiang  |                                                     |
+| Jack Jiang  | [Jack-K-Jian] (https://github.com/jack-k-jiang)     |
 
 ## Team Norms
 
